@@ -7,6 +7,8 @@ in the winter term 2022 and summer term 2023 by the Codes and Cryptography resea
 Our plan is to develop a library which itself primarily focuses on prototyping for researchers and
 teaching for lecturers.
 
+Further information and important links can be found [on our website](https://qfall.github.io/).
+
 ### Disclaimer
 The objective of our project is not to provide best optimizations and a cryptographically secure environment.
 Rather we plan to create a library that can easily be used to develop, test and benchmark new schemes.
